@@ -2,7 +2,7 @@
 
 
 - Estudante do curso Análise e Desenvolvimento de Sistema
-- Atualmente estudando JavaScript e React pela plataforma Alura
+- Atualmente estudando JavaScript e HTML pela plataforma Alura
 - Tenho 27 anos
 
 
